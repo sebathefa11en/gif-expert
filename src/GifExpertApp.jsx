@@ -29,7 +29,6 @@ const GifExpertApp = () => {
             )
           }
         </ol>
-        <button>Agregar</button>
     </>
   )
 }
