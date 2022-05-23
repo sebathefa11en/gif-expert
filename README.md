@@ -1,3 +1,8 @@
+# Gif Expert
+
+Simplemente un proyecto del curso de React JS Udemy impartido por Fernando Herrera.
+Basicamente es una app la cual busca Gif's mediante una api obtenida desde https://giphy.com 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
