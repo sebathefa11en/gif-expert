@@ -1,7 +1,8 @@
 # Gif Expert
 
 Simplemente un proyecto del curso de React JS Udemy impartido por Fernando Herrera.
-Basicamente es una app la cual busca Gif's mediante una api obtenida desde https://giphy.com 
+Basicamente es una app la cual busca Gif's mediante una api obtenida desde https://giphy.com .
+Entren a probarla desde el siguiente link de GitHub Pages https://sebathefa11en.github.io/gif-expert/ 😃
 
 # Getting Started with Create React App
 
